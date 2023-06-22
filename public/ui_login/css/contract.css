@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+}
+ul,ol{
+    list-style: none;
+}
+a, a:hover{
+    text-decoration: none;
+}
+body{
+    
+}
+
